@@ -1,5 +1,6 @@
 ﻿using PokemonTest;
 
+//Dette er innstansen
 var pokemon1 = new Pokemon("Pikachu", 100, 75, "Electric");
 var pokemon2 = new Pokemon("Bulbasaur", 150, 125, "Grass");
 
