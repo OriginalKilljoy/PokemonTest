@@ -8,11 +8,13 @@ namespace PokemonTest
 {
     internal class Pokemon
     {
+        //Dette er objektet/klassen/verdier
         private string Name { get; set; }
         public int Health;
         public int Strength;
         public string Type;
 
+        //Dette er kompilatoren
         public Pokemon(string name, int health, int strength, string type)
         {
             Name = name;
